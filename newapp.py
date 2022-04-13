@@ -1,6 +1,6 @@
 """Thanks to Python Engineer - Adopted from his amazing project"""
 #import streamlit as st
-from tkinter import Y
+#from tkinter import Y
 import streamlit as st
 from sklearn import datasets
 import numpy as np
