@@ -1,5 +1,5 @@
 tkinter
 streamlit
-sklearn
+scikit-learn
 numpy
 matplotlib
